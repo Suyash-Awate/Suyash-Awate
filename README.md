@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suyash Awate</h1>
 <h3 align="center">Architecting Tomorrow's Reality with Lines of Today's Code.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=suyash-awate&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-awate" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash-awate" alt="suyash-awate" /></a> </p>
+<p align="centre"> <img src="https://komarev.com/ghpvc/?username=suyash-awate&label=Profile%20views&color=0e75b6&style=flat" alt="suyash-awate" /> </p>
 
 - 🌱 I’m currently learning **Angular**
 
@@ -25,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suyash-awate&show_icons=true&locale=en" alt="suyash-awate" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suyash-awate&" alt="suyash-awate" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suyash-awate" alt="suyash-awate" /></a> </p>
